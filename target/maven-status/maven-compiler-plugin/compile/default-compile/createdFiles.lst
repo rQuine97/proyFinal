@@ -1,0 +1,6 @@
+p\ucss\config\Conexion.class
+p\ucss\config\test.class
+p\ucss\daomlp\PostDaoImpl.class
+p\ucss\entity\Post.class
+p\ucss\controller\ProductoController.class
+p\ucss\dao\PostDao.class
